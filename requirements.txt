@@ -1,0 +1,11 @@
+langchain>=0.1.0
+chromadb>=0.4.0
+openai>=1.0.0
+tqdm
+requests
+beautifulsoup4
+pydantic>=2.0
+groq
+sentence-transformers
+uvicorn
+fastapi
